@@ -95,7 +95,7 @@ app.get("/api/v1/superDragonTiger", async (req, res) => {
 // });
 
 app.listen(3000, () => {
-  console.log("服务启动成功：http://localhost:3000");
+  console.log("服务启动成功：http://localhost:3001");
 });
 
 // 导出一个函数来处理请求
